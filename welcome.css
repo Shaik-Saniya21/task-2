@@ -1,0 +1,63 @@
+video{
+    width: 100%;
+}
+.nav-link {
+    color: black;
+}
+.container {
+    background-color: antiquewhite;
+    display: flex;
+
+}
+.container img{
+    width: 200px;
+    height: 300px;
+    margin-top: 3%;
+    margin: 2% 6%;
+}
+.container .title{
+    padding: 10% 15%;
+}
+.container1 {
+    background-color: rgb(169, 169, 113);
+    display: flex;
+
+}
+.container1 img{
+    width: 200px;
+    height: 300px;
+    margin-top: 3%;
+    margin: 2% 6%;
+}
+.container1 .title{
+    padding: 10% 15%;
+}
+.container2 {
+    background-color: rgb(173, 130, 210);
+    display: flex;
+}
+.container2 img{
+    width: 200px;
+    height: 300px;
+    margin-top: 3%;
+    margin: 2% 6%;
+}
+.container2 .title{
+    padding: 10% 15%;
+}
+.container3 {
+    background-color: rgb(80, 129, 129);
+    display: flex;
+}
+.container3 img{
+    width: 200px;
+    height: 300px;
+    margin-top: 3%;
+    margin: 2% 6%;
+}
+.container3 .title{
+    padding: 10% 15%;
+}
+footer{
+    background-color: rgb(136, 161, 184);
+}
